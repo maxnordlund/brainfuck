@@ -1,0 +1,15 @@
+{
+  "name": "Brainfuck",
+  "version": "0.0.1",
+  "description": "Brainfuck",
+  "main": "brainfuck.coffee",
+  "scripts": {
+    "test": "./node_modules/.bin/coffee brainfuck.coffee"
+  },
+  "repository": "git@github.com:maxnordlund/brainfuck.git",
+  "author": "Max Nordlund",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "1.6.x"
+  }
+}
